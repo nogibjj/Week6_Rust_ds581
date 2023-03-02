@@ -1,7 +1,7 @@
 # Week6_Rust_ds581
 
 # Random Life Fact Generator
-This is a simple Rust program that generates a random life fact from a list of facts. The program uses the rand crate to select a random fact from the list.
+This is a simple Rust program that generates a random life fact from a list of facts. The program uses the `rand` crate to select a random fact from the list.
 
 # Usage
 To use this program, simply run the following command:

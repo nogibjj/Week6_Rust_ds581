@@ -10,6 +10,6 @@ To use this program, simply run the following command:
 This will generate a random life fact and print it to the console.
 
 ## Contributing
-If you have a suggestion for a new fact, feel free to submit a pull request! We only ask that you keep the facts family-friendly and appropriate for all ages.
+If you have a suggestion for a new fact, feel free to submit a pull request! Please keep the facts family-friendly and appropriate for all ages.
 
 
